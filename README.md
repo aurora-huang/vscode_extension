@@ -24,6 +24,8 @@ Markdown預覽Github的樣式
 - PDF Viewer  
 閱讀PDF的套件
 
+- vscode-pdf
+
 - Excel Viewer  
 閱讀Excel、CSV的套件
 
@@ -42,3 +44,6 @@ Markdown預覽Github的樣式
 
 - indent-rainbow  
 語法編輯時，使用Tab空格時顯示顏色，表語法層次性
+
+- Code Runner
+
