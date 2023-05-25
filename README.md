@@ -13,9 +13,15 @@
 -- Open in GitHub / Bitbucket / VisualStudio.com  
 ### Markdown
 - Markdown All in One
-  
+
 - Markdown Preview Github Styling  
 Markdown預覽Github的樣式
+
+### 插入截圖
+- Paste Image  
+直接貼上剪貼簿圖片(Ctrl+Alt+V)  
+pasteImage.path 修改存檔路徑 ${currentFileDir}/img  
+pasteImage:Name Prefix 添加 mk-  
 
 ### 檔案預覽
 - Path Intellisense  
@@ -45,5 +51,11 @@ Markdown預覽Github的樣式
 - indent-rainbow  
 語法編輯時，使用Tab空格時顯示顏色，表語法層次性
 
-- Code Runner
+- Code Runner  
 
+### Angular
+- Angular Language Service
+
+- Angular Snippets (Version 13)
+
+- Angular Essentials (Version 13)
